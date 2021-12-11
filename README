@@ -1,0 +1,17 @@
+Extract faces from image using Python
+
+- import libraries
+
+- define paths
+
+- read the model
+
+- create directory 'faces'
+
+- loop through images and filter out face
+
+- identify face
+
+- if face exists, save to seperate file
+
+- show output
